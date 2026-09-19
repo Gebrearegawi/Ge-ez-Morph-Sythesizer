@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the paper below."
+title: "Ge'ez Morphological Synthesizer"
+authors:
+  - family-names: Gidey
+    given-names: "Gebrearegawi Gebremariam"
+  - family-names: Teklehaymanot
+    given-names: "Hailay Kidu"
+  - family-names: Atsbha
+    given-names: "Gebregewergs Mezgebe"
+date-released: "2024-05-01"
+url: "https://github.com/Gebrearegawi/Ge-ez-Morph-Sythesizer"
+preferred-citation:
+  type: conference-paper
+  title: "Morphological Synthesizer for Ge'ez Language: Addressing Morphological Complexity and Resource Limitations"
+  authors:
+    - family-names: Gidey
+      given-names: "Gebrearegawi Gebremariam"
+    - family-names: Teklehaymanot
+      given-names: "Hailay Kidu"
+    - family-names: Atsbha
+      given-names: "Gebregewergs Mezgebe"
+  collection-title: "Proceedings of the Fifth Workshop on Resources for African Indigenous Languages @ LREC-COLING 2024"
+  publisher:
+    name: "ELRA and ICCL"
+  conference:
+    name: "LREC-COLING 2024"
+    city: Torino
+    country: IT
+  month: 5
+  year: 2024
+  start: 94
+  end: 106
+  url: "https://aclanthology.org/2024.rail-1.11/"

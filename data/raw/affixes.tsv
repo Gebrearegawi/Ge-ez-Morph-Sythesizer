@@ -1,0 +1,3 @@
+name	prefix	suffix	conditions
+# TODO: fill in with the actual affix inventory used in the paper.
+# One row per affixation rule. Leave prefix or suffix empty ("") if unused.
