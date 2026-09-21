@@ -9,15 +9,11 @@ One row per affixation rule (prefix and/or suffix applied to a root/stem,
 with the conditions under which it applies — verb class, person, number,
 gender, tense/aspect, etc.).
 
-## `raw/regular_verbs.tsv`
-
-Columns: `root`, `pattern`, `surface_form`, `features`.
-Regular-verb roots paired with their correct surface forms.
-
-## `raw/irregular_verbs.tsv`
+## `raw/testing_dataset_verbs.tsv`
 
 Columns: `root`, `pattern`, `surface_form`, `features`, `irregularity_note`.
-Same as above, for verbs that deviate from the regular rules.
+Regular-verb roots paired with their correct surface forms.
+
 
 ## Status
 
