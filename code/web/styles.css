@@ -1,0 +1,420 @@
+@charset "iso-8859-1";
+body
+{
+	color:#000000 ;
+	line-height: 22px;
+	background-color: #669933;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+
+}
+
+*
+{
+	margin: 0;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	font-weight: bolder;
+	text-decoration: blink;
+	font-style: normal;
+	line-height: 23px;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	border: thin none #000000;
+}
+#mainbg{
+	width: 1250px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	border:1px solid #000;
+}
+#cont{
+	background-image:url(image/Contact%20us.jpg);
+	background-repeat:no-repeat;
+	}
+#main{
+	margin: 0 auto;
+	width: 1200px;
+	padding-top: 5px;
+	background-color: #CCCCCC;
+        border:1px solid #000;
+}
+
+#header{
+	font-family:Cambria, Candara, Castellar, monospace, fantasy, cursive;
+    background: url(header.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 1250px;
+	height: 40px;
+	padding-top: 20px;
+	
+}
+#form{
+	font-family:Cambria, Candara, Castellar, monospace, fantasy, cursive;
+    background: url();
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 1250px;
+	height: 40px;
+	padding-top: 20px;
+	
+}
+
+#logo{
+	width: auto;
+	text-align: center;
+	padding-top: 14px;
+	height: 44px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.header_back
+{
+width: 1008px;
+height: 265px;
+margin-top: 49px;
+border:solid;
+border-radius:4px;
+border-color:#FFF;
+}
+
+.ed{
+	border-radius: 4px;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	float: center;
+	clear: both;
+	background-color: rgba(255,251,240,1);
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#button1{
+	text-align: center;
+	font-size: 16px;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #FF7F00;
+	height: 34px;
+	width: 95px;
+	border: medium solid #2A0000;
+}
+#content{
+	
+
+}
+
+#left{
+	width: 300px;
+	height: 1000px;
+	float: left;
+	clear: both;
+	background-color: #CCCCCC;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#left1{
+    width:249px;
+	height:500px;
+    padding-left: 0px;
+    float: left;
+	margin-top:1px;
+}
+
+#left h2 {
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-weight:normal;
+	color: #ffffff;
+	font-size: 18px;
+	text-align:center;
+	height: 27px;
+	padding-top: 10px;
+	background: url(images/title_left.png);
+	background-repeat:no-repeat;
+	background-position:top left;
+	text-decoration: blink;
+}
+#left1 h2 {
+    font-family:Cambria, Candara, Castellar, monospace, fantasy, cursive;
+    font-weight:normal;
+    color: #ffffff;
+    font-size: 16px;
+    text-align:center;
+    height: 27px;
+    padding-top: 0px;
+    background: url(images/title_left.png);
+    background-repeat:no-repeat;
+    background-position:top left;
+}
+
+.left_grad{
+    background: url(images/left_grad.png) no-repeat;
+    background-position: top left;
+    min-height: 200px;
+}
+
+.left_bg{
+	background-position:left;
+	width:249px;
+	height:350px;
+	font-family:Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	background-color: #CCCCCC;
+	background-image: url(images/left_bg.png);
+	background-repeat: repeat-y;
+	color: #000000;
+}
+.left_bg1{
+    background: url(images/left_bg.png) repeat-y;
+    background-position:left;
+	width:249px;
+	height:375px;
+	font-family:Cambria, Candara, Castellar, monospace, fantasy, cursive;
+}
+
+.left_bot{
+    background: url(images/left_bot.png) repeat-y;
+    background-position:left top;
+    height: 5px;
+    margin-bottom: 10px;
+}
+#center{
+	width: 745px;
+	padding-left: 5px;
+	float: left;
+}
+
+#center p{
+    padding-left:15px;
+    padding-right:5px;
+    padding-bottom: 10px;
+}
+
+.text{
+    padding: 10px;
+    background: #ffffff;
+    background-position: bottom;
+    background-repeat: repeat-x;
+    min-height: 64px;
+}
+
+#center h1{
+
+    font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+    font-weight:normal;
+    color: #000000;
+    font-size: 20px;
+    height: 36px;
+    width: 537px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background: url(images/title_center.png);
+    background-repeat:no-repeat;
+    background-position: top;
+}
+
+#content1{
+	background:  white;
+    background-position:left;
+	height: 488px;
+    width: 537px;
+    padding-left: 10px;
+    float: left;
+}
+#content2{
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	background-position: left;
+	border-radius: 5px;
+	width: 719px;
+	float: left;
+	padding-left: 40px;
+	color: #0033FF;
+	background-color: #CCCCCC;
+}
+#content2 a:hover{
+	color:#004000;
+	text-decoration:none;
+	font-size:14px;
+}
+#content3{
+    font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	background: white;
+	font-size:12px;
+    background-position:left;
+	height: 1700px;
+	border-radius:5px;
+    width: 750px;
+	padding-top:5px;
+	padding-left:20px;
+    float: left;
+	margin-top:0px;
+	margin-bottom:5px;
+}
+#content4{
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	background: #D6D6D6;
+	font-size:12px;
+	background-position:left;
+	border-radius:5px;
+	width: 760px;
+	float: none;
+	margin-top:0px;
+	height: 800px;
+}
+
+.categories{
+
+}
+
+.categories a{
+    font-weight: normal;
+    color: #004000;
+    text-decoration: underline;
+}
+
+.categories ul li a:hover{
+    font-weight: normal;
+    color:#3366FF;
+    text-decoration: underline;
+}
+
+.categories ul{
+	padding-left: 10px;
+	color: rgba(0,0,0,1);
+}
+
+.categories ul li{
+    list-style: none;
+    padding: 3px 3px 3px 5px;
+    padding: 3px 3px 3px 5px;
+    border-bottom: 2px dotted #979797;
+}
+
+.footer1 {
+	font-size: 12px;
+	color: #CCCCCC;
+	text-align: justify;
+	background-color: #330000;
+	float: left;
+	height: 180px;
+	width: 180px;
+	cursor: nw-resize;
+	filter: Gray;
+	page-break-before: always;
+	page-break-after: always;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	margin-left: 100px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	padding: 10px;
+	font-weight: bold;
+	font-variant: normal;
+}
+.footer1 a{
+    font-weight: normal;
+    color:#FFF;
+    text-decoration:underline;
+}
+.footer1 a:hover{
+	font-weight: bolder;
+	color: #0033FF;
+	text-decoration: underline blink;
+	cursor: default;
+	filter: FlipH;
+	page-break-before: auto;
+	page-break-after: auto;
+}
+
+
+.headerlink {
+	background-color: #414141;
+	height: 30px;
+	text-align: center;
+	font-size: 12px;
+	color:#FFF;
+	text-decoration: none;
+}
+.headerlink a{
+	color:#FFF;
+	text-decoration: none;
+}
+.headerlink a:hover{
+	color: #F0F;
+	text-decoration: underline;
+}
+.menu1{
+	margin-top:18px;
+	
+	}
+	
+	
+#fot {
+	background-color: #330000;
+	text-align: center;
+	color: #D6D6D6;
+	width: 1016px;
+	clear: both;
+	float: center;
+	right: 1000px;
+	bottom: 100px;
+	clip: rect(auto,1000px,300px,auto);
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+	font-size: 12px;
+	font-style: normal;
+}
+#content1 {
+	width: 545px;
+	border: thin solid #000;
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainbg #main #content #center #content2 h3 u {
+	color:#660000;
+}
+#fot p {
+	color: rgba(255,255,255,1);
+}
+#fot .footer1 p a {
+	font-weight: bold;
+}
+#mainbg #main #content #center #content2 form table {
+	font-weight: bold;
+}
+#fot p {
+	font-family: Cambria, Candara, Castellar, monospace, fantasy, cursive;
+}
+#mainbg #main #content #center #content2 .categories tr td {
+	font-size: 18px;
+}
+#mainbg #main #content #center #form1 table tr td .ed tr td #cancel {
+	text-align: center;
+}

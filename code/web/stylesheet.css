@@ -1,0 +1,188 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 30, 2016, 11:55:03 AM
+    Author     : admin
+*/
+
+root { 
+    display: block;
+}
+body
+{
+   margin:0;
+   color:#141412;
+	width: 1100px;
+	padding: 0 30px 50px;
+	margin: 0 auto;
+}
+select
+{
+   margin:0;
+   color:#141412;
+	width: 160px;
+	
+	margin: 0 auto;
+}
+.top
+{
+    background-color:rgb(61,55,57);
+    height:25px;
+    color:white;
+    font-size:22px;
+    font-style:italic;
+}
+.menu
+{
+    background-color:rgb(114,162,128);
+}
+.header
+{
+ 
+	width: 1100px;	 
+}
+.right
+{
+ 
+	width: 100px;	 
+}
+.sidenav {
+	float: right;
+	width: 184px;
+	padding-right:35px;
+	border:1px solid #CCD8E0;
+	border-radius:3px 3px 3px 3px;
+	
+}
+.sidenav .right{
+    padding-right:38px;
+	width: 180px;
+	text-align:center;
+	background:blue;
+	border: 1px solid #DFEEF7;
+	border-color: #DFEEF7 #CFDEE7;
+	height: 41px;
+}
+ul li
+{
+    list-style-type:none;
+    float:left;
+}
+ul li a
+{
+    text-decoration:none;
+    float:left;
+    margin:10px;
+    margin-bottom:15px;
+    color:navy;
+    font-size:20px;
+    text-align:center;
+    margin-left:2px;
+}
+
+ul li a:hover
+{
+    color:teal;
+}
+.img_slide
+{
+    background-color:rgb(234,232,230);
+}
+.lbl_txt
+{
+    font-size:18px;
+    font-style:bold;
+    color:blue;
+}
+.txt
+{
+    font-size:18px;
+    color:black;
+    background-color:rgb(235,178,244);
+    width: 250;
+}
+.exam
+{
+    font-size:8px;
+    color:black;
+    
+}
+.text
+{
+    font-size:14px;
+    color:black;
+   
+}
+
+.btn
+{
+    font-size:20px;
+    color:maroon;
+    background-color:silver;
+}
+.field_name
+{
+    background:rgb(118,114,104);
+    color:white;
+}
+.view_field
+{
+    background:rgb(150,234,238);
+    font-size:20px;
+    font-weight:600;
+    font-style:italic;
+    color:red;
+}
+a:hover
+{
+  
+    
+      text-decoration:underline;
+}
+.footer_ul li
+{
+    list-style-type:none;
+    float:left;
+    
+}
+.footer_ul li a
+{
+    text-decoration:none;
+    float:left;
+    margin:10px;
+    margin-bottom:5px;
+    color:navy;  
+    text-align:center;
+    margin-left:30px;
+}
+.footer a:hover
+{
+    color:rgb(51,209,209);
+    font-weight:bolder;
+    text-decoration:underline;
+}
+a:visited
+{
+    color:purple;
+}
+h3
+{
+    color:white;
+    text-align:center;  
+    font-family:Lucida ;
+}
+.footer
+{
+    height: 3px;
+    background-color:rgb(126,100,104);
+}
+
+
+
+
+
+
+
