@@ -1,3 +1,126 @@
 name	prefix	suffix	conditions
 # TODO: fill in with the actual affix inventory used in the paper.
 # One row per affixation rule. Leave prefix or suffix empty ("") if unused.
+name	prefix	suffix	conditions
+# TODO: fill in with the actual affix inventory used in the paper.
+# One row per affixation rule. Leave prefix or suffix empty ("") if unused.
+affix	type	morphosyntactic_feature	attaches_to_pos
+አ-	prefix	causative	verb
+-ኒ	suffix	1sg object	verb
+-ት	suffix	feminine singular	verb/noun
+ኢ-...-ኒ	circumfix	negative perfect	verb
+ለ-	prefix	dative preposition	noun/pronoun
+-ኩ	suffix	 1psc	verb/noun
+-ነ	suffix	1ppc	verb/noun
+-ከ	suffix	2psm	verb/noun
+-ኪ	suffix	2psf	verb/noun
+-ክሙ 	suffix	You (2ppm)	verb/noun
+-ክን	suffix	You (2ppf) 	verb/noun
+-አ 	suffix	He (3psm)	verb/noun
+-ኡ	suffix	They (3ppm) 	verb/noun
+-አት	suffix	She (3psf)	verb/noun
+-ኣ	suffix	They (3ppf) 	verb/noun
+-የ	suffix	I (1psc)	verb/noun
+-ኦ	suffix	He (3psm)	verb/noun
+-ሙ	suffix	They(3ppm)	verb/noun
+-ን	suffix	They (3ppf)/ 	verb/noun
+-እ	suffix	You/2psm 	verb/noun
+-ኡ	suffix	You/2ppm 	verb/noun
+-ኢ	suffix	You/2psf 	verb/noun
+ወ	prefix		verb/noun/adjuctive
+በ	prefix		
+እም	prefix		
+ዘ	prefix		
+ኢይ	prefix		
+ኢ	prefix		
+-ኒ	suffix		
+-ነ 	suffix		
+-ከ	suffix		
+-ክሙ	suffix		
+-ኪ	suffix		
+-ክን	suffix		
+ሁ	suffix		
+ኦ	suffix		
+ዎ	suffix		
+ዮ	suffix		
+ክዎ	suffix		
+ክሙ	suffix		
+ሙ	suffix		
+ሆሙ	suffix		
+ዮሙ	suffix		
+ዎሙ	suffix		
+ዋ	suffix		
+ሃ	suffix		
+ኢ	suffix		
+ያ-	suffix		
+ዎን	suffix		
+ሆን	suffix		
+ን	suffix		
+ዮን	suffix		
+ኦ	suffix		
+ኮ	suffix		
+ካ	suffix		
+ኮሙ	suffix		
+ኮን	suffix		
+ከኒ	suffix		
+ዎ	suffix		
+ዋ	suffix		
+ክምዎ	suffix		
+ቶ	suffix		
+ታ	suffix		
+ቶሙ	suffix		
+ቶን	suffix		
+ተከ	suffix		
+ተኪ	suffix		
+ተክሙ	suffix		
+ተክን	suffix		
+ተኒ	suffix		
+ተነ  	suffix		
+ኪዮ	suffix		
+ኪያ	suffix		
+ኪዮሙ	suffix		
+ኪዮን	suffix		
+ክኒ	suffix		
+ክነ 	suffix		
+ክናሁ	suffix		
+ክናሃ	suffix		
+ክናሆሙ	suffix		
+ክናሆን	suffix		
+ክናኒ	suffix		
+ክናነ 	suffix		
+ክዋ	suffix		
+ክዎሙ	suffix		
+ክዎን	suffix		
+ኩከ	suffix		
+ኩኪ	suffix		
+ኩክን 	suffix		
+ናሁ	suffix		
+ናሃ	suffix		
+ናሆሙ	suffix		
+ናሆን	suffix		
+ናከ	suffix		
+ናኪ	suffix		
+ናክሙ	suffix		
+ናክን suffix		
+ት	prefix
+ታ	prefix
+ይት	prefix
+ትት	prefix
+ታስተ	prefix
+ያስተ	prefix
+አስተ	prefix
+እ	prefix
+ን	prefix
+እት	prefix
+ንት	prefix
+ተ	prefix
+ና	prefix
+ናስተ	prefix
+ነ	prefix
+አስ	prefix
+የ	prefix
+
+The above listed affixes can be grouped to their proper affixation forms as the following:
+SMS={"ኩ", "ነ", "ከ", "ኪ", "ክሙ", "ክን","አ", "ኡ", "አት","ኣ", "የ", "ኦ","ሙ","ን", "እ", "ኡ","ኢ","ትየ","ትነ","የ"};
+OMS={"ከ","ክሙ","ኪ","ክን","ሃ","ሁ","ኦ","ዎ","ዮ","ዎሙ","ክሙ","ሙ","ሆሙ","ዮሙ","ዋ","ሃ","ኣ","ያ","ዎን","ሆን","ን","ዮን","ኒ","ነ","ኮ","ቱ"}; //24
+prefixes={"ኢ","አ","ያ","ይ","ት","ታ","ይት","ትት","ታስተ","ያስተ","አስተ","እ","ን","እት","ንት","ተ","ና","ናስተ","ነ","አስ","የ"};//11
